@@ -5,7 +5,7 @@
 		
 		<h1 class="h1 p-4 text-slate-800">Welcome to The Greeters Guild!</h1>
 
-		<h2 class="h2">What would Jan Molby do?</h2>
-			
+		
+		<div class="h2 p-4 italic text-center mx-auto ">What would Jan Molby do?</div>
 	
 </div>
